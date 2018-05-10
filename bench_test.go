@@ -5,7 +5,7 @@ import (
 
 	"testing"
 
-	"github.com/pseudomuto/protoc-gen-doc"
+	"github.com/ajainc/protoc-gen-doc"
 )
 
 func BenchmarkParseCodeRequest(b *testing.B) {
